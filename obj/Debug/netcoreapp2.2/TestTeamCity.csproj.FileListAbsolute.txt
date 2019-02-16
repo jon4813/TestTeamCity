@@ -1,0 +1,11 @@
+/home/evgeny/GitRoot/TestTeamCity/bin/Debug/netcoreapp2.2/TestTeamCity.deps.json
+/home/evgeny/GitRoot/TestTeamCity/bin/Debug/netcoreapp2.2/TestTeamCity.runtimeconfig.json
+/home/evgeny/GitRoot/TestTeamCity/bin/Debug/netcoreapp2.2/TestTeamCity.runtimeconfig.dev.json
+/home/evgeny/GitRoot/TestTeamCity/bin/Debug/netcoreapp2.2/TestTeamCity.dll
+/home/evgeny/GitRoot/TestTeamCity/bin/Debug/netcoreapp2.2/TestTeamCity.pdb
+/home/evgeny/GitRoot/TestTeamCity/obj/Debug/netcoreapp2.2/TestTeamCity.csprojAssemblyReference.cache
+/home/evgeny/GitRoot/TestTeamCity/obj/Debug/netcoreapp2.2/TestTeamCity.csproj.CoreCompileInputs.cache
+/home/evgeny/GitRoot/TestTeamCity/obj/Debug/netcoreapp2.2/TestTeamCity.AssemblyInfoInputs.cache
+/home/evgeny/GitRoot/TestTeamCity/obj/Debug/netcoreapp2.2/TestTeamCity.AssemblyInfo.cs
+/home/evgeny/GitRoot/TestTeamCity/obj/Debug/netcoreapp2.2/TestTeamCity.dll
+/home/evgeny/GitRoot/TestTeamCity/obj/Debug/netcoreapp2.2/TestTeamCity.pdb
