@@ -2,7 +2,7 @@
 
 namespace TestTeamCity
 {
-    class Program
+    class Programs
     {
         static void Main(string[] args)
         {
